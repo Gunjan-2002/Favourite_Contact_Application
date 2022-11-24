@@ -25,6 +25,9 @@ In main method make a priority queue which will take parameter as comparator cla
 * Step 3:
 In main method use switch case which will make a input and output user friendly and it will have three option Add contact , Print all contacts , Print Favourite contacts.
 
+## Application : 
+* It is used in mobile phones to favourite the contact .
+
 ## Source Code :
 ```
 package Favourite_Contact;
