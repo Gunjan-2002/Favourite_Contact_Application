@@ -1,6 +1,6 @@
-# Favourite Contact Application 
+![1](https://user-images.githubusercontent.com/103045206/203844301-0a36fbd4-490c-4048-abba-8c2b716ef0fd.PNG)
 
- 
+
  ## Problem Statement :
 Given an application and its implementation to demonstrate the implementation of data structures for handling the "Favorite" contact list in mobiles.
 
@@ -188,6 +188,8 @@ public class Favourite_Contact
 
 ## Output :
 
+This is to Add New Contact's
+
 ```
 ------------------------------------------------------------------
 		CONTACT APPLICATION
@@ -257,7 +259,7 @@ Yash			9420253010			9
 Viraj			9623756838			9
 ```
 
-Like this i have inserted 20 more contacts, here is the output of contact list and favourite contactr list.
+Like this i have inserted 20 more contacts, here is the output of Contact List and Favourite Contact List.
 
 ```
 ------------------------------------------------------------------
@@ -332,6 +334,7 @@ Piyush			7867983429			16
 Tejas			7809345289			10
 ```
 
+
 ## 💼 Language Used
  
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=react&color=61DAFB)
@@ -339,3 +342,6 @@ Tejas			7809345289			10
 ## 💼 IDE Used
 
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=react&color=61DAFB)
+
+![2](https://user-images.githubusercontent.com/103045206/203844905-dd5f78a8-fe90-4190-ad4c-408de715ea74.PNG)
+
