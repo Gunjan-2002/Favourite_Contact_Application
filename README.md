@@ -27,6 +27,9 @@ In main method use switch case which will make a input and output user friendly 
 
 ## Application : 
 * It is used in mobile phones to favourite the contact .
+* In Prim’s Algorithm: In the case of Prim’s Algorithm, we use a priority queue to store the keys of nodes and extract minimum key nodes at every step.
+* In Artificial Intelligence: A priority queue is used while implementing the A* search algorithm. A* algorithm is used to approximate the shortest path in real-life scenarios.
+* In data compression: We use a priority queue in Huffman Encoding to implement the min-heap. Huffman Encoding is one of the famous data compression techniques used in compression formats like PKZIP, GZIP. 
 
 ## Source Code :
 ```
